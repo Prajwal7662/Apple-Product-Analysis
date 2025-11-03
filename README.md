@@ -1,4 +1,5 @@
 📊 Apple Product Analysis (Flipkart iPhones)
+
 📌 Project Overview
 
 This project analyzes Apple iPhones listed on Flipkart (India) using data analysis and visualization techniques. The goal is to explore product ratings, reviews, prices, and discounts to identify customer preferences and pricing insights.
